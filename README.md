@@ -1,4 +1,4 @@
-# ReadMee
+# ReadMe
 Hi there, I'm Mirza Arslan 👋
 I'm a Student and Developer.
 🔭 I’m currently working on Web based projects.
